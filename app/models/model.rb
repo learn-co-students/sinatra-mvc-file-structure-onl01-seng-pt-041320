@@ -1,3 +1,3 @@
-class Model
+class Module
 
 end
